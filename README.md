@@ -9,3 +9,5 @@ When I'm not building, you’ll find me:
 - 🎨 Painting whatever comes to mind
 - 🎧 Vibing to nostalgic Vietnamese 90s music
 - ✈️ Traveling, usually with a sketchbook or journal in hand
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tramtran-helen&layout=compact&hide=jupyter%20notebook)
