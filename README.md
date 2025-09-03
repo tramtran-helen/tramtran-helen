@@ -1,7 +1,7 @@
 ## Hi there, I'm Tram 👋
 A curious mind at the intersection of **psychology**, **cognitive science**, and **technology**. I'm passionate about building softwares that bridge tech and healthcare, making systems more human-centered and accessible. 
 
-Lately, I’ve been diving into full-stack development to bring these ideas to life. My latest project is **[StarLit](https://github.com/tramtran-helen/fullstack-starlit-app.git)** - a journaling web app that supports emotional well-being through mood tagging, AI-generated visuals, and mood analytics ✨
+Lately, I’ve been diving into full-stack development and data science to bring these ideas to life. My latest project is **[StarLit](https://github.com/tramtran-helen/fullstack-starlit-app.git)** - a journaling web app that supports emotional well-being through mood tagging, AI-generated visuals, and mood analytics ✨
 
 I'm also actively exploring deep learning, AI-powered platforms, and how they can enhance personal reflection and care accessibility.
 
