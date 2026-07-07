@@ -1,12 +1,21 @@
-## Hi there, I'm Helen (Tram) 👋
-A curious mind at the intersection of **psychology**, **cognitive science**, and **technology**. I'm passionate about building softwares that bridge tech and healthcare, making systems more human-centered and accessible. 
+# Hi there, I'm Tram!
 
-Lately, I’ve been diving into full-stack development and data science to bring these ideas to life. My latest project is **[StarLit](https://github.com/tramtran-helen/fullstack-starlit-app.git)** - a journaling web app that supports emotional well-being through mood tagging, AI-generated visuals, and mood analytics ✨
+I'm an aspiring software engineer based in the **Greater Los Angeles** area who loves working across the stack. I'm currently focused on **distributed systems and networking**, and always curious about the intersection of **psychology, human-centered design, and technology**.
 
-I'm also actively exploring deep learning, AI-powered platforms, and how they can enhance personal reflection and care accessibility.
+## 🚀 What I'm Up To
+- **Software Engineer Intern @ Arista Networks** for summer 2026: working on distributed systems and developer tooling for network devices.
+- **Currently building:**
+  - [**2D Game Engine**](https://github.com/tramtran-helen/2d-game-engine): a data-oriented ECS in C++/SDL2 with Lua scripting.
+  - [**StarLit**](https://github.com/tramtran-helen/fullstack-starlit-app): an AI-powered journaling & mood analytics app (Next.js, Node.js, Prisma, NeonDB).
+  - [**U.S. Health Electricity Resilience**](https://github.com/tramtran-helen/AI4All-weather-grid): ML forecasting grid faults for health facilities during disasters (Python, Streamlit, Pandas, NumPy, Scikit-learn).
 
-When I'm not building, you’ll find me:
-- 🎨 Painting whatever comes to mind
-- 🎧 Vibing to nostalgic Vietnamese 90s music
-- ✈️ Traveling, usually with a sketchbook or journal in hand
-<br><br>
+## My Toolbox
+- **Languages:** Go, C/C++, Python, TypeScript, Java, SQL
+- **Backend & Data:** Node.js, FastAPI, Spring Boot, gRPC, REST, PostgreSQL, MongoDB, Redis
+- **Infrastructure:** Docker, Kubernetes, AWS, GCP, Linux, CI/CD
+
+## Outside the Terminal
+Painting whatever comes to mind 🎨, vibing to nostalgic Vietnamese 90s music 🎧, and traveling with a sketchbook in hand ✈️.
+
+## Connect with Me
+💼 [LinkedIn](https://www.linkedin.com/in/tramtran-helen/) · 📧 tramtran.helen@gmail.com
