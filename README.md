@@ -1,6 +1,6 @@
 # Hi there, I'm Tram!
 
-I'm an aspiring software engineer based in the **Greater Los Angeles** area who loves working across the stack. I'm currently focused on **distributed systems and networking**, and always curious about the intersection of **psychology, human-centered design, and technology**.
+I'm an aspiring software engineer based in the **Los Angeles Metropolitan Area** area who loves working across the stack. I'm currently focused on **distributed systems and networking**, and always curious about the intersection of **psychology, human-centered design, and technology**.
 
 ## 🚀 What I'm Up To
 - **Software Engineer Intern @ Arista Networks** (summer 2026): working on developer tooling and observability for network devices.
